@@ -1,0 +1,6 @@
+/target/
+/runtime/
+/config/db.local.properties
+/.idea/
+*.iml
+*.log
